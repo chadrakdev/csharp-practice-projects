@@ -1,0 +1,28 @@
+/Users/chadrakh/Developer/C# Learning/SystemInfoCLI/SystemInfoCLI/bin/Debug/net8.0/SystemInfoCLI
+/Users/chadrakh/Developer/C# Learning/SystemInfoCLI/SystemInfoCLI/bin/Debug/net8.0/SystemInfoCLI.deps.json
+/Users/chadrakh/Developer/C# Learning/SystemInfoCLI/SystemInfoCLI/bin/Debug/net8.0/SystemInfoCLI.runtimeconfig.json
+/Users/chadrakh/Developer/C# Learning/SystemInfoCLI/SystemInfoCLI/bin/Debug/net8.0/SystemInfoCLI.dll
+/Users/chadrakh/Developer/C# Learning/SystemInfoCLI/SystemInfoCLI/bin/Debug/net8.0/SystemInfoCLI.pdb
+/Users/chadrakh/Developer/C# Learning/SystemInfoCLI/SystemInfoCLI/obj/Debug/net8.0/SystemInfoCLI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chadrakh/Developer/C# Learning/SystemInfoCLI/SystemInfoCLI/obj/Debug/net8.0/SystemInfoCLI.AssemblyInfoInputs.cache
+/Users/chadrakh/Developer/C# Learning/SystemInfoCLI/SystemInfoCLI/obj/Debug/net8.0/SystemInfoCLI.AssemblyInfo.cs
+/Users/chadrakh/Developer/C# Learning/SystemInfoCLI/SystemInfoCLI/obj/Debug/net8.0/SystemInfoCLI.csproj.CoreCompileInputs.cache
+/Users/chadrakh/Developer/C# Learning/SystemInfoCLI/SystemInfoCLI/obj/Debug/net8.0/SystemInfoCLI.dll
+/Users/chadrakh/Developer/C# Learning/SystemInfoCLI/SystemInfoCLI/obj/Debug/net8.0/refint/SystemInfoCLI.dll
+/Users/chadrakh/Developer/C# Learning/SystemInfoCLI/SystemInfoCLI/obj/Debug/net8.0/SystemInfoCLI.pdb
+/Users/chadrakh/Developer/C# Learning/SystemInfoCLI/SystemInfoCLI/obj/Debug/net8.0/SystemInfoCLI.genruntimeconfig.cache
+/Users/chadrakh/Developer/C# Learning/SystemInfoCLI/SystemInfoCLI/obj/Debug/net8.0/ref/SystemInfoCLI.dll
+/Users/chadrakh/Developer/csharp-practice-projects/01-system-info-cli/SystemInfoCLI/SystemInfoCLI/bin/Debug/net8.0/SystemInfoCLI
+/Users/chadrakh/Developer/csharp-practice-projects/01-system-info-cli/SystemInfoCLI/SystemInfoCLI/bin/Debug/net8.0/SystemInfoCLI.deps.json
+/Users/chadrakh/Developer/csharp-practice-projects/01-system-info-cli/SystemInfoCLI/SystemInfoCLI/bin/Debug/net8.0/SystemInfoCLI.runtimeconfig.json
+/Users/chadrakh/Developer/csharp-practice-projects/01-system-info-cli/SystemInfoCLI/SystemInfoCLI/bin/Debug/net8.0/SystemInfoCLI.dll
+/Users/chadrakh/Developer/csharp-practice-projects/01-system-info-cli/SystemInfoCLI/SystemInfoCLI/bin/Debug/net8.0/SystemInfoCLI.pdb
+/Users/chadrakh/Developer/csharp-practice-projects/01-system-info-cli/SystemInfoCLI/SystemInfoCLI/obj/Debug/net8.0/SystemInfoCLI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chadrakh/Developer/csharp-practice-projects/01-system-info-cli/SystemInfoCLI/SystemInfoCLI/obj/Debug/net8.0/SystemInfoCLI.AssemblyInfoInputs.cache
+/Users/chadrakh/Developer/csharp-practice-projects/01-system-info-cli/SystemInfoCLI/SystemInfoCLI/obj/Debug/net8.0/SystemInfoCLI.AssemblyInfo.cs
+/Users/chadrakh/Developer/csharp-practice-projects/01-system-info-cli/SystemInfoCLI/SystemInfoCLI/obj/Debug/net8.0/SystemInfoCLI.csproj.CoreCompileInputs.cache
+/Users/chadrakh/Developer/csharp-practice-projects/01-system-info-cli/SystemInfoCLI/SystemInfoCLI/obj/Debug/net8.0/SystemInfoCLI.dll
+/Users/chadrakh/Developer/csharp-practice-projects/01-system-info-cli/SystemInfoCLI/SystemInfoCLI/obj/Debug/net8.0/refint/SystemInfoCLI.dll
+/Users/chadrakh/Developer/csharp-practice-projects/01-system-info-cli/SystemInfoCLI/SystemInfoCLI/obj/Debug/net8.0/SystemInfoCLI.pdb
+/Users/chadrakh/Developer/csharp-practice-projects/01-system-info-cli/SystemInfoCLI/SystemInfoCLI/obj/Debug/net8.0/SystemInfoCLI.genruntimeconfig.cache
+/Users/chadrakh/Developer/csharp-practice-projects/01-system-info-cli/SystemInfoCLI/SystemInfoCLI/obj/Debug/net8.0/ref/SystemInfoCLI.dll
